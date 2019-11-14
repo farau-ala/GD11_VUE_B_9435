@@ -1,13 +1,12 @@
-<template> 
-  <v-app> 
-    <main>
-      <router-view></router-view> 
-    </main> 
-  </v-app> 
+<template>
+    <v-app>
+      <main>
+        <router-view></router-view>
+      </main>
+    </v-app>
 </template>
-
-<script> 
-export default { 
-  name: 'app' 
-} 
+<script>
+export default {
+ name: 'app'
+}
 </script>
